@@ -116,5 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-
-# source ~/.dotfile/function/*
+alias setproxy='~/.dotfile/scripts/proxy.sh set'

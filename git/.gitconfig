@@ -1,0 +1,7 @@
+[user]
+	email = dglz.hyj@qq.com
+	name = sunflower-knight
+[http]
+	proxy = http://172.24.160.1:7890
+[https]
+	proxy = http://172.24.160.1:7890

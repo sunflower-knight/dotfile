@@ -65,3 +65,57 @@ zsh installzshzim.sh
 ip a
 ls
 mv .bash* ~/.config/bash/
+mv ~/.bash* ~/.config/bash
+mv ~/.bash* ~/.dotfile/bash/
+ln -s -f ~/.dotfile/bash/* ~ 
+ls
+rm test 
+ls
+zsh
+zsh
+bash
+bash
+zsh
+clear
+set_proxy
+zsh
+ls
+ll
+ls -al
+ln ~/.dotfile/bash/* ~/
+ls
+ls -al
+ln -s -f ~/.dotfile/bash/* ~/
+ls -al
+ln -s -f /home/hyj/.dotfile/bash/* /home/hyj/
+ls -al
+which ln
+ln -s -f /home/hyj/.dotfile/bash/*  /home/hyj/
+ls -al
+ln -s -f /home/hyj/.dotfile/bash/.bash*  /home/hyj/
+ls -al
+ls
+zsh
+ls
+clear
+zsh
+sudo apt install awk
+sudo apt install gawk
+zsh
+ls
+zsh
+zsh
+setproxy
+zsh
+setproxy 
+zsh
+setproxy 
+sudo chmod 777 /home/hyj/.dotfile/scripts/*
+setproxy 
+git config 
+git config --list
+ls
+ls -al
+ln /home/hyj/.gitconfig  /home/hyj/.dotfile/git/
+wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
+zsh
