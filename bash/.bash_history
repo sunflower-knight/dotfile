@@ -119,3 +119,67 @@ ls -al
 ln /home/hyj/.gitconfig  /home/hyj/.dotfile/git/
 wget -nv -O - https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 zsh
+git clone https://github.com/gpakosz/.tmux.git
+tmux
+cd scripts/
+sudo bash remove-snap.sh 
+ls
+sudo apt install sshg
+sudo apt install ssh
+sudo apt install zsh
+sudo apt install gcc g++ clang clang++ cmake cmake-qt-gui cmake-curses-gui 
+sudo apt install gcc g++ clang clang++  cmake cmake-qt-gui cmake-curses-gui 
+sudo apt install gcc g++ clang llvm  cmake cmake-qt-gui cmake-curses-gui 
+cd ..
+git remote  add git@github.com:sunflower-knight/dotfile.git
+git remote add  githubdotfile  git@github.com:sunflower-knight/dotfile.git
+git status
+git add scripts/
+git commit  -m "" 
+git config --global  user.email "dglz.hyj@qq.com"
+git config --global  user.name "sunflower-knight"
+l
+git commit  -m "" 
+git commit  -m "first commit" 
+git push githubdotfile master 
+ls
+git push githubdotfile master 
+find foo/bar/ -iname *.h -o -iname *.cpp | xargs clang-format -i
+find . -iname *.h -o -iname *.cpp | xargs clang-format -i
+find . -iname *.h -o -iname *.cpp | xargs clang-format-14 -i
+find . -iname *.hpp -o -iname *.cpp | xargs clang-format-14 -i
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -i
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=LLVM  -i
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14   -i
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+cd ..
+find . -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+find include/ -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+find scr -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+find src -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+find include  -iname *.hpp -o -iname *.cpp  -o -iname *.h  | xargs clang-format-14 -style=file  -i
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+setproxy 
+git config --list
+ls
+zsh
+setproxy
+zsh
